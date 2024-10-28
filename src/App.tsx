@@ -15,31 +15,31 @@ const songs: Song[] = [
   {
     title: "シャイニングスター",
     artist: "詩歩",
-    coverUrl: "hining_star.jpg",
+    coverUrl: "/hining_star.jpg",
     musicUrl: "shining_star.mp3",
   },
   {
     title: "Burning Heart",
     artist: "KEI",
-    coverUrl: "burning_heart.jpg",
+    coverUrl: "/burning_heart.jpg",
     musicUrl: "burning_heart.mp3",
   },
   {
     title: "12345",
     artist: "Mary",
-    coverUrl: "12345.jpg",
+    coverUrl: "/12345.jpg",
     musicUrl: "12345.mp3",
   },
   {
     title: "ハルジオン",
     artist: "KEI",
-    coverUrl: "halzion.jpg",
+    coverUrl: "/halzion.jpg",
     musicUrl: "halzion.mp3",
   },
   {
     title: "Bipolar Disorder Outside ver.",
     artist: "森田交一",
-    coverUrl: "outside.png",
+    coverUrl: "/outside.png",
     musicUrl: "outside.mp3",
   },
 ];
