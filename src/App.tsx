@@ -13,35 +13,34 @@ type Song = {
 
 const songs: Song[] = [
   {
-    title: "シャイニングスター",
-    artist: "詩歩",
-    //　デプロイ時はpublicを削除
-    coverUrl: "/shining_star.jpg",
-    musicUrl: "/shining_star.mp3",
+    title: "昼と夜の境界",
+    artist: "BGMer",
+    coverUrl: "/hirutoyoru.jpg",
+    musicUrl: "/hirutoyoru.mp3",
   },
   {
-    title: "Burning Heart",
-    artist: "KEI",
-    coverUrl: "/burning_heart.jpg",
-    musicUrl: "/burning_heart.mp3",
+    title: "電気街の悪魔",
+    artist: "BGMer",
+    coverUrl: "/denkigai.jpg",
+    musicUrl: "/denkigai.mp3",
   },
   {
-    title: "12345",
-    artist: "Mary",
-    coverUrl: "/12345.jpg",
-    musicUrl: "/12345.mp3",
+    title: "ガーデンパーティー",
+    artist: "BGMer",
+    coverUrl: "/gardenparty.jpg",
+    musicUrl: "/gardenparty.mp3",
   },
   {
-    title: "ハルジオン",
-    artist: "KEI",
-    coverUrl: "/halzion.jpg",
-    musicUrl: "/halzion.mp3",
+    title: "快晴都市",
+    artist: "BGMer",
+    coverUrl: "/kaiseitoshi.jpg",
+    musicUrl: "/kaiseitoshi.mp3",
   },
   {
-    title: "Bipolar Disorder Outside ver.",
-    artist: "森田交一",
-    coverUrl: "/outside.png",
-    musicUrl: "/outside.mp3",
+    title: "カラフルな生活",
+    artist: "BGMer",
+    coverUrl: "/colorfull.jpg",
+    musicUrl: "/colorfull.mp3",
   },
 ];
 
